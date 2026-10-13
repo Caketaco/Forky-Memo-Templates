@@ -1,0 +1,12 @@
+# Command Maid Memo
+[color=#1b67a5]╔══════════════════════════════════════
+║ [color=#0000]░░░░[/color][color=#185e98]▄▀[/color]   [head=2]NANOTRASEN[/head]
+║ [color=#185e98]▄▄▄▀[/color][color=#0000]░░[/color]   [color=#185e98][head=3]CMD Standard Memo Template[/head][/color]
+║ [color=#185e98]▄▀█[/color][color=#0000]░░░[/color]   [head=3]From:[/head] [signature], Command Maid.
+╟──────────────────────────────────────
+║ [italic]"We clean after you so you can clean after the crew!"[/italic]
+╚══════════════════════════════════════[/color]
+
+    [form]
+
+    [form]

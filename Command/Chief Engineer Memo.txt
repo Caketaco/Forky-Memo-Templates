@@ -1,0 +1,12 @@
+# Chief Engineer Memo
+[color=#1b67a5]╔══════════════════════════════════════
+║ [color=#185e98]▄▀▀▀▀▄[/color]   [head=2]NANOTRASEN[/head]
+║ [color=#185e98]█[/color][color=#0000]░░░░[/color][color=#185e98]█[/color]   [color=#e4a258][head=3]ENG Standard Memo Template[/head][/color]
+║ [color=#185e98]▄█[/color][color=#0000]░░[/color][color=#185e98]█▄[/color]   [head=3]From:[/head] [signature], Chief Engineer.
+╟──────────────────────────────────────
+║ [italic]"We use the sharpest tools in the shed!"[/italic]
+╚══════════════════════════════════════[/color]
+
+    [form]
+
+    [form]

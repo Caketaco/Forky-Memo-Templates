@@ -1,0 +1,12 @@
+# Chief Medical Officer Memo
+[color=#1b67a5]╔══════════════════════════════════════
+║ [color=#185e98]▄█[/color][color=#0000]░░[/color][color=#185e98]█▄[/color]   [head=2]NANOTRASEN[/head]
+║ [color=#0000]░░░░░░[/color]   [color=#3cafd6][head=3]MED Standard Memo Template[/head][/color]
+║ [color=#185e98]▀█[/color][color=#0000]░░[/color][color=#185e98]█▀[/color]   [head=3]From:[/head] [signature], CMO.
+╟──────────────────────────────────────
+║ [italic]"We charge an arm and a leg to reattach them!"[/italic]
+╚══════════════════════════════════════[/color]
+
+    [form]
+
+    [form]

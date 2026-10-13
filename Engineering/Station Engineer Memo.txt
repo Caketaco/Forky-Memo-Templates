@@ -1,0 +1,12 @@
+# Station Engineer Memo
+[color=#1b67a5]╔══════════════════════════════════════
+║ [color=#0000]░░[/color][color=#e4a258]▄▀[/color][color=#0000]░░[/color]   [head=2]NANOTRASEN[/head]
+║ [color=#0000]░[/color][color=#e4a258]▄█▄▄▀[/color]   [color=#e4a258][head=3]ENG Standard Memo Template[/head][/color]
+║ [color=#e4a258]██▀[/color][color=#0000]░░░[/color]   [head=3]From:[/head] [signature], Station Engineer.
+╟──────────────────────────────────────
+║ [italic]"Did you try turning it off and back on again?"[/italic]
+╚══════════════════════════════════════[/color]
+
+    [form]
+
+    [form]

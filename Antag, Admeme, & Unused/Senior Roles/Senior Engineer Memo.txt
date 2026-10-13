@@ -1,0 +1,12 @@
+# Senior Engineer Memo
+[color=#1b67a5]╔══════════════════════════════════════
+║ [color=#e4a258]█▄[/color][color=#0000]░░[/color][color=#e4a258]▄█[/color]   [head=2]NANOTRASEN[/head]
+║ [color=#e4a258]█[/color][color=#0000]░[/color][color=#e4a258]▀▀[/color][color=#0000]░[/color][color=#e4a258]█[/color]   [color=#e4a258][head=3]ENG Standard Memo Template[/head][/color]
+║ [color=#e4a258]█[/color][color=#0000]░░░░[/color][color=#e4a258]█[/color]   [head=3]From:[/head] [signature], Senior Engineer.
+╟──────────────────────────────────────
+║ [italic]"Why, yes, I do smell like oil!"[/italic]
+╚══════════════════════════════════════[/color]
+
+    [form]
+
+    [form]

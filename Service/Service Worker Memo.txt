@@ -1,0 +1,12 @@
+# Service Worker Memo
+[color=#1b67a5]╔══════════════════════════════════════
+║ [color=#0000]░░░░[/color][color=#74823e]▄▄[/color]   [head=2]NANOTRASEN[/head]
+║ [color=#74823e]▀█▀[/color][color=#0000]░[/color][color=#74823e]▀▀[/color]   [color=#74823e][head=3]SRV Standard Memo Template[/head][/color]
+║ [color=#0000]░[/color][color=#74823e]▀▀███[/color]   [head=3]From:[/head] [signature], Service Worker.
+╟──────────────────────────────────────
+║ [italic]"What can I get you today?"[/italic]
+╚══════════════════════════════════════[/color]
+
+    [form]
+
+    [form]

@@ -1,0 +1,12 @@
+# Senior Officer Memo
+[color=#1b67a5]╔══════════════════════════════════════
+║ [color=#b5294e]█▄[/color][color=#0000]░░[/color][color=#b5294e]▄█[/color]   [head=2]NANOTRASEN[/head]
+║ [color=#b5294e]█[/color][color=#0000]░[/color][color=#b5294e]▀▀[/color][color=#0000]░[/color][color=#b5294e]█[/color]   [color=#b5294e][head=3]SEC Standard Memo Template[/head][/color]
+║ [color=#b5294e]█[/color][color=#0000]░░░░[/color][color=#b5294e]█[/color]   [head=3]From:[/head] [signature], Senior Officer.
+╟──────────────────────────────────────
+║ [italic]"I've seen worse."[/italic]
+╚══════════════════════════════════════[/color]
+
+    [form]
+
+    [form]

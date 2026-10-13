@@ -1,0 +1,12 @@
+# Security Cadet Memo
+[color=#1b67a5]╔══════════════════════════════════════
+║ [color=#b5294e]▄█▀▀█▄[/color]   [head=2]NANOTRASEN[/head]
+║ [color=#b5294e]██[/color][color=#0000]░░░░[/color]   [color=#b5294e][head=3]SEC Standard Memo Template[/head][/color]
+║ [color=#b5294e]▀█▄▄█▀[/color]   [head=3]From:[/head] [signature], Security Cadet.
+╟──────────────────────────────────────
+║ [italic]"Do you know why I pulled you aside today?"[/italic]
+╚══════════════════════════════════════[/color]
+
+    [form]
+
+    [form]

@@ -1,0 +1,12 @@
+# Commandant Memo
+[color=#1b67a5]╔══════════════════════════════════════
+║ [color=#0000]░[/color][color=#b5294e]▄▄▄▄[/color][color=#0000]░[/color]   [head=2]NANOTRASEN[/head]
+║ [color=#b5294e]██▀[/color][color=#0000]░[/color][color=#b5294e]██[/color]   [color=#b5294e][head=3]SEC Standard Memo Template[/head][/color]
+║ [color=#0000]░[/color][color=#b5294e]▀▀▀▀[/color][color=#0000]░[/color]   [head=3]From:[/head] [signature], Commandant.
+╟──────────────────────────────────────
+║ [italic]"What we do is for your own protection."[/italic]
+╚══════════════════════════════════════[/color]
+
+    [form]
+
+    [form]

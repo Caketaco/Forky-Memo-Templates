@@ -1,0 +1,12 @@
+# Visitor Memo
+[color=#1b67a5]╔══════════════════════════════════════
+║ [color=#605d77]██[/color][color=#0000]░░░[/color][color=#605d77]█[/color]   [head=2]NANOTRASEN[/head]
+║ [color=#605d77]▀██[/color][color=#0000]░[/color][color=#605d77]█▀[/color]   [color=#605d77][head=3]CIV Standard Memo Template[/head][/color]
+║ [color=#0000]░[/color][color=#605d77]▀██▀[/color][color=#0000]░[/color]   [head=3]From:[/head] [signature], Visitor.
+╟──────────────────────────────────────
+║ [italic]"Tell me about local tourist destinations!"[/italic]
+╚══════════════════════════════════════[/color]
+
+    [form]
+
+    [form]

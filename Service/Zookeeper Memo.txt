@@ -1,0 +1,12 @@
+# Zookeeper Memo
+[color=#1b67a5]╔══════════════════════════════════════
+║ [color=#0000]░[/color][color=#74823e]▀[/color][color=#0000]░░[/color][color=#74823e]▀[/color][color=#0000]░[/color]   [head=2]NANOTRASEN[/head]
+║ [color=#74823e]▀[/color][color=#0000]░[/color][color=#74823e]▄▄[/color][color=#0000]░[/color][color=#74823e]▀[/color]   [color=#74823e][head=3]SRV Standard Memo Template[/head][/color]
+║ [color=#0000]░[/color][color=#74823e]▀▀▀▀[/color][color=#0000]░[/color]   [head=3]From:[/head] [signature], Zookeeper.
+╟──────────────────────────────────────
+║ [italic]"Don't worry, they don't bite!"[/italic]
+╚══════════════════════════════════════[/color]
+
+    [form]
+
+    [form]

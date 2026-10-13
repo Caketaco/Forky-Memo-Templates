@@ -1,0 +1,12 @@
+# Technical Assistant Memo
+[color=#1b67a5]╔══════════════════════════════════════
+║ [color=#e4a258]▀▀██▀▀[/color]   [head=2]NANOTRASEN[/head]
+║ [color=#0000]░░[/color][color=#e4a258]██[/color][color=#0000]░░[/color]   [color=#e4a258][head=3]ENG Standard Memo Template[/head][/color]
+║ [color=#0000]░░[/color][color=#e4a258]██[/color][color=#0000]░░[/color]   [head=3]From:[/head] [signature], Technical Assistant.
+╟──────────────────────────────────────
+║ [italic]"A little duct tape goes a long way!"[/italic]
+╚══════════════════════════════════════[/color]
+
+    [form]
+
+    [form]

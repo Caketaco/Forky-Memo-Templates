@@ -1,0 +1,12 @@
+# Senior Courier Memo
+[color=#1b67a5]╔══════════════════════════════════════
+║ [color=#a66b33]█▄[/color][color=#0000]░░[/color][color=#a66b33]▄█[/color]   [head=2]NANOTRASEN[/head]
+║ [color=#a66b33]█[/color][color=#0000]░[/color][color=#a66b33]▀▀[/color][color=#0000]░[/color][color=#a66b33]█[/color]   [color=#a66b33][head=3]LOG Standard Memo Template[/head][/color]
+║ [color=#a66b33]█[/color][color=#0000]░░░░[/color][color=#a66b33]█[/color]   [head=3]From:[/head] [signature], Senior Courier.
+╟──────────────────────────────────────
+║ [italic]"Certified professional shuttle drifter."[/italic]
+╚══════════════════════════════════════[/color]
+
+    [form]
+
+    [form]

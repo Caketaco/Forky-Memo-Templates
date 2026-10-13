@@ -1,0 +1,12 @@
+# Mime Memo
+[color=#1b67a5]╔══════════════════════════════════════
+║ [color=#2b2520]▄▀██▀▄[/color]   [head=2]NANOTRASEN[/head]
+║ [color=#2b2520]▀████▀[/color]   [color=#74823e][head=3]SRV Standard Memo Template[/head][/color]
+║ [color=#2b2520]▀█▄▄█▀[/color]   [head=3]From:[/head] [signature], Mime.
+╟──────────────────────────────────────
+║ [italic]"..."[/italic]
+╚══════════════════════════════════════[/color]
+
+    [form]
+
+    [form]

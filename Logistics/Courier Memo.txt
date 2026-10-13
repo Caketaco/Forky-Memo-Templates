@@ -1,0 +1,12 @@
+# Courier Memo
+[color=#1b67a5]╔══════════════════════════════════════
+║ [color=#0000]░░░░░░[/color]   [head=2]NANOTRASEN[/head]
+║ [color=#0000]░[/color][color=#a66b33]▀██▀[/color][color=#0000]░[/color]   [color=#a66b33][head=3]LOG Standard Memo Template[/head][/color]
+║ [color=#0000]░[/color][color=#a66b33]█▄▄█[/color][color=#0000]░[/color]   [head=3]From:[/head] [signature], Courier.
+╟──────────────────────────────────────
+║ [italic]"Open your mail, please!"[/italic]
+╚══════════════════════════════════════[/color]
+
+    [form]
+
+    [form]

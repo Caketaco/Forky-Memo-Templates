@@ -1,0 +1,12 @@
+# Medical Doctor Memo
+[color=#1b67a5]╔══════════════════════════════════════
+║ [color=#0000]░░[/color][color=#3cafd6]██[/color][color=#0000]░░[/color]   [head=2]NANOTRASEN[/head]
+║ [color=#3cafd6]██████[/color]   [color=#3cafd6][head=3]MED Standard Memo Template[/head][/color]
+║ [color=#0000]░░[/color][color=#3cafd6]██[/color][color=#0000]░░[/color]   [head=3]From:[/head] [signature], Medical Doctor.
+╟──────────────────────────────────────
+║ [italic]"Quality care at an affordable* price!"[/italic]
+╚══════════════════════════════════════[/color]
+
+    [form]
+
+    [form]

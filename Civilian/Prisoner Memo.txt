@@ -1,0 +1,12 @@
+# Prisoner Memo
+[color=#1b67a5]╔══════════════════════════════════════
+║ [color=#0000]░[/color][color=#000000]█[/color][color=#0000]░[/color][color=#000000]█[/color][color=#0000]░[/color][color=#000000]█[/color]   [head=2]NANOTRASEN[/head]
+║ [color=#000000]▀█▀█▀█[/color]   [color=#000000][head=3]PRS Standard Memo Template[/head][/color]
+║ [color=#0000]░[/color][color=#000000]█[/color][color=#0000]░[/color][color=#000000]█[/color][color=#0000]░[/color][color=#000000]█[/color]   [head=3]From:[/head] [signature], Prisoner.
+╟──────────────────────────────────────
+║ [italic]"Report anything suspicious written below to the Warden."[/italic]
+╚══════════════════════════════════════[/color]
+
+    [form]
+
+    [form]
