@@ -1,11 +1,11 @@
 # Detective Memo
-[color=#1b67a5]╔══════════════════════════════════════
-║ [color=#0000]░░[/color][color=#b5294e]▄▀▀▄[/color]   [head=2]NANOTRASEN[/head]
-║ [color=#0000]░░[/color][color=#b5294e]█▄▄▀[/color]   [color=#b5294e][head=3]SEC Standard Memo Template[/head][/color]
-║ [color=#b5294e]▄▀[/color][color=#0000]░░░░[/color]   [head=3]From:[/head] [signature], Detective.
-╟──────────────────────────────────────
-║ [italic]"Please be sure to get your fingerprints on this memo."[/italic]
-╚══════════════════════════════════════[/color]
+[color=#9b013a]▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+█   [color=#0000]░░[/color][color=#b5294e]▄▀▀▄[/color]   [head=2][bolditalic]AEGIS Security Consolidated[/bolditalic][/head]
+█   [color=#0000]░░[/color][color=#b5294e]█▄▄▀[/color]   [color=#b5294e][head=3]DOC-MEM Security Agent Memo[/head][/color]
+█   [color=#b5294e]▄▀[/color][color=#0000]░░░░[/color]   [head=3]From:[/head] [signature], Detective.
+█▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+█   [italic]"Please be sure to get your fingerprints on this memo."[/italic]
+▀▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
 
     [form]
 
