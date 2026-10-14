@@ -3,7 +3,7 @@ All 90+ of my job specific memo templates for [Funky Station](https://funkystati
 
 <img width="540" height="739" alt="GlitchedCrownFromBindingOfIsaacButLikeWithForkyRolesGetItHahaHashtagReference" src="https://github.com/user-attachments/assets/1d5d1b23-674d-4669-baf7-afc2266ac7e1" />
 
-*(Note: Above forms not necessarily up-to-date with changes or additions to repo. Here's an [imgur album](https://imgur.com/a/5p4vvRY) of these frames, which are, again, possibly not up-to-date with changes to the repo.)*
+*(Note: Above forms not necessarily up-to-date with changes or additions to repo. Here's an [imgur album](https://imgur.com/a/lhSKMTj) of these frames, which are, again, possibly not up-to-date with changes to the repo.)*
 
 ⠀
 All memo templates have a "flavor quote." This is usually either a pun, reference, quote, or just something I imagine the role saying. If you can think of something more fitting for a role than what I currently have, make a PR/issue.
