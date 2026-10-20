@@ -1,11 +1,11 @@
 # Cluwne Memo
-[color=#1b67a5]╔══════════════════════════════════════
-║ [color=#d480bb]█[/color][color=#0000]░░░░[/color][color=#e88a36]█[/color]   [head=2]WHY SO SERIOUS?[/head]
-║ [color=#0000]░░[/color][color=#e27285]██[/color][color=#0000]░░[/color]   [color=#5d9b79][head=3]Non-Standard Memo Template[/head][/color]
-║ [color=#8ac4c3]▀[/color][color=#6FB0A0]▄[/color][color=#5d9b79]▄▄[/color][color=#97CE72]▄[/color][color=#f8f644]▀[/color]   [head=3]From:[/head] [signature], Cluwne.
-╟──────────────────────────────────────
-║ [italic]"help my clown horn brok"[/italic]
-╚══════════════════════════════════════[/color]
+[color=#5d9b79]/===============================================
+| [color=#d480bb]█[/color][color=#0000]░░░░[/color][color=#e88a36]█[/color]   [head=2]EUHEHEHEHEHEHE![/head]
+| [color=#0000]░░[/color][color=#e27285]██[/color][color=#0000]░░[/color]   [color=#97CE72][head=3]EUHEHEHEHEHEHE![/head][/color]
+| [color=#8ac4c3]▀[/color][color=#6FB0A0]▄[/color][color=#5d9b79]▄▄[/color][color=#97CE72]▄[/color][color=#f8f644]▀[/color]   [head=3]From:[/head] [signature], Cluwne.
+|-----------------------------------------------------------------------------------
+| [italic]"WHY SO SERIOUS?"[/italic]
+\\===============================================[/color]
 
     [form]
 
