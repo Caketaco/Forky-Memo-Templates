@@ -1,7 +1,7 @@
 # NanoTrasen Career Trainer Memo
 [color=#1b67a5]╔══════════════════════════════════════
 ║ [color=#0000]░░[/color][color=#3c9751]▄▄[/color][color=#0000]░░[/color]   [head=2]NANOTRASEN[/head]
-║ [color=#0000]░[/color][color=#3c9751]▀▀▀▀[/color][color=#0000]░[/color]   [color=#3c9751][head=3]CC Standard Memo Template[/head][/color]
+║ [color=#0000]░[/color][color=#3c9751]▀▀▀▀[/color][color=#0000]░[/color]   [color=#3c9751][head=3]NCC Standard Memo Template[/head][/color]
 ║ [color=#3c9751]▀▀▀▀▀▀[/color]   [head=3]From:[/head] [signature], NCT.
 ╟──────────────────────────────────────
 ║ [italic]"Don't be afraid to ask questions!"[/italic]

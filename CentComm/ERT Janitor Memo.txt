@@ -1,7 +1,7 @@
 # ERT Janitor Memo
 [color=#1b67a5]╔══════════════════════════════════════
 ║ [color=#3c9751]▀▄[/color][color=#0000]░░░░[/color]   [head=2]NANOTRASEN[/head]
-║ [color=#0000]░░[/color][color=#3c9751]▀▄▄[/color][color=#0000]░[/color]   [color=#74823e][head=3]CC Standard Memo Template[/head][/color]
+║ [color=#0000]░░[/color][color=#3c9751]▀▄▄[/color][color=#0000]░[/color]   [color=#74823e][head=3]NCC Standard Memo Template[/head][/color]
 ║ [color=#3c9751]▄[/color][color=#0000]░[/color][color=#3c9751]▄█▀█[/color]   [head=3]From:[/head] [signature], ERT Janitor.
 ╟──────────────────────────────────────
 ║ [italic]"Please refrain from drinking any blood before we can clean it."[/italic]
