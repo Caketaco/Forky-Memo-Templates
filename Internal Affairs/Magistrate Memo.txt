@@ -1,7 +1,7 @@
 # Magistrate Memo
 [color=#1b67a5]╔══════════════════════════════════════
 ║ [color=#0000]░░[/color][color=#bda499]▄█▄[/color][color=#0000]░[/color]   [head=2]NANOTRASEN[/head]
-║ [color=#0000]░░[/color][color=#bda499]▄▀█▀[/color]   [color=#bda499][head=3]IA Standard Memo Template[/head][/color]
+║ [color=#0000]░░[/color][color=#bda499]▄▀█▀[/color]   [color=#bda499][head=3]IAB Standard Memo Template[/head][/color]
 ║ [color=#bda499]▄▀[/color][color=#0000]░░░░[/color]   [head=3]From:[/head] [signature], Magistrate.
 ╟──────────────────────────────────────
 ║ [italic]"All rulings are final."[/italic]
